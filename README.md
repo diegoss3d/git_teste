@@ -9,3 +9,5 @@ para contar de 0 a 10.
 Criada uma linha para verificar as diferenças de versões.
 
 Meu projeto foi colocado no github!
+
+Estou revisitando esse código em 2026
