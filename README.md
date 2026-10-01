@@ -11,3 +11,5 @@ Criada uma linha para verificar as diferenças de versões.
 Meu projeto foi colocado no github!
 
 Estou revisitando esse código em 2026
+
+Essa parte do código foi feita manualmente.
