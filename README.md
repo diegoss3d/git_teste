@@ -13,3 +13,5 @@ Meu projeto foi colocado no github!
 Estou revisitando esse código em 2026
 
 Essa parte do código foi feita manualmente.
+
+Essa linha tem objetivo de testar o git pull
